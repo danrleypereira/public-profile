@@ -1,0 +1,18 @@
+{
+    "name": "Júlio César",
+    "profilePicture": "path/to/picture",
+    "role": "Vereador",
+    "slogan": "O Amigo do Povo",
+    "officeNumber": "(62) 3456-8799",
+    "whatsapp": "(61) 99423-4712",
+    "facebook": "juliocesar.novogama",
+    "instagram": "juliocesar.novogama",
+    "email": "julioepv7@gmail.com",
+    "endereco": "Camâra dos vereadores de Novo Gama (GO)",
+    "politicalParty": "Partido Social Democrático",
+    "partyAcronym": "PSD",
+    "partyLogo": "path/to/logo",
+    "partyNumber": "55",
+    "isCampaign": false,
+    "CNPJ": "38.648.471/0001-27"
+}
